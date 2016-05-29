@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerryzWebshare Folder", "BerryzWebshare Folder\BerryzWebshare Folder.csproj", "{DB9C53E1-38F0-4207-8CA4-0D156176803A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEST", "TEST\TEST.csproj", "{88ACF611-E0DB-4994-81F6-A58A4F8948FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB9C53E1-38F0-4207-8CA4-0D156176803A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB9C53E1-38F0-4207-8CA4-0D156176803A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB9C53E1-38F0-4207-8CA4-0D156176803A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB9C53E1-38F0-4207-8CA4-0D156176803A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88ACF611-E0DB-4994-81F6-A58A4F8948FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88ACF611-E0DB-4994-81F6-A58A4F8948FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88ACF611-E0DB-4994-81F6-A58A4F8948FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88ACF611-E0DB-4994-81F6-A58A4F8948FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
